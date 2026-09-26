@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <h1 align="center">Hi there, I'm Sem Puthearun 👋</h1>
-<h3 align="center">💻Web Development</h3>
+<h3 align="center">Web Development💻</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Exploring+Web,+UI%2FUX,+AI+%26+Data+Science;Building+real-world+%26+educational+projects;Always+learning+and+sharing+coding+knowledge!" alt="Typing SVG" />
