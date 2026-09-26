@@ -87,9 +87,3 @@ I am constantly researching fresh technologies specifically to figure out how to
     <img src="https://img.shields.io/badge/GitHub-puthearun-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=puthearun&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" />
-</p>
